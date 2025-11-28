@@ -1,0 +1,17 @@
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\bin\Debug\ChromeControl.exe
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\bin\Debug\ChromeControl.pdb
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\bin\Debug\ChromeControl.xml
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\bin\Debug\Newtonsoft.Json.dll
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\bin\Debug\Newtonsoft.Json.xml
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.Form1.resources
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.Form2.resources
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.ProgressForm.resources
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.Resources.resources
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.vbproj.GenerateResource.cache
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.vbproj.CoreCompileInputs.cache
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.vbproj.CopyComplete
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.exe
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.xml
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.pdb
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\bin\Debug\ChromeControl.exe.config
+C:\Users\TheJo\source\repos\ChromeControl\ChromeControl\obj\Debug\ChromeControl.Form3.resources
